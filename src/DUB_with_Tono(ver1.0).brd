@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="mm" altunit="mm"/>
+<grid distance="0.01" unitdist="mm" unit="mm" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -892,95 +892,6 @@ design rules under a new name.</description>
 <vertex x="13.63" y="12.73"/>
 <vertex x="13.63" y="21.811109375"/>
 </polygon>
-<via x="14.43" y="7.57" extent="1-16" drill="0.3"/>
-<via x="14.8" y="8.19" extent="1-16" drill="0.3"/>
-<via x="15.16" y="8.81" extent="1-16" drill="0.3"/>
-<via x="15.16" y="7.57" extent="1-16" drill="0.3"/>
-<via x="15.53" y="8.19" extent="1-16" drill="0.3"/>
-<via x="15.89" y="8.81" extent="1-16" drill="0.3"/>
-<via x="15.89" y="7.57" extent="1-16" drill="0.3"/>
-<via x="16.26" y="8.19" extent="1-16" drill="0.3"/>
-<via x="16.62" y="8.81" extent="1-16" drill="0.3"/>
-<via x="16.62" y="7.57" extent="1-16" drill="0.3"/>
-<via x="16.99" y="8.19" extent="1-16" drill="0.3"/>
-<via x="17.36" y="8.81" extent="1-16" drill="0.3"/>
-<via x="17.35" y="7.57" extent="1-16" drill="0.3"/>
-<via x="17.72" y="8.19" extent="1-16" drill="0.3"/>
-<via x="18.06" y="8.81" extent="1-16" drill="0.3"/>
-<via x="18.08" y="7.57" extent="1-16" drill="0.3"/>
-<via x="18.45" y="8.19" extent="1-16" drill="0.3"/>
-<via x="18.86" y="8.81" extent="1-16" drill="0.3"/>
-<via x="18.81" y="7.57" extent="1-16" drill="0.3"/>
-<via x="19.54" y="7.57" extent="1-16" drill="0.3"/>
-<via x="20.27" y="7.57" extent="1-16" drill="0.3"/>
-<via x="21" y="7.57" extent="1-16" drill="0.3"/>
-<via x="21.73" y="7.57" extent="1-16" drill="0.3"/>
-<via x="22.46" y="7.57" extent="1-16" drill="0.3"/>
-<via x="23.19" y="7.57" extent="1-16" drill="0.3"/>
-<via x="19.18" y="8.19" extent="1-16" drill="0.3"/>
-<via x="19.91" y="8.19" extent="1-16" drill="0.3"/>
-<via x="20.64" y="8.19" extent="1-16" drill="0.3"/>
-<via x="21.37" y="8.19" extent="1-16" drill="0.3"/>
-<via x="22.1" y="8.19" extent="1-16" drill="0.3"/>
-<via x="22.83" y="8.19" extent="1-16" drill="0.3"/>
-<via x="19.56" y="8.81" extent="1-16" drill="0.3"/>
-<via x="20.26" y="8.81" extent="1-16" drill="0.3"/>
-<via x="20.96" y="8.81" extent="1-16" drill="0.3"/>
-<via x="21.76" y="8.81" extent="1-16" drill="0.3"/>
-<via x="22.46" y="8.81" extent="1-16" drill="0.3"/>
-<wire x1="12.52" y1="17.92" x2="15.06" y2="17.92" width="0" layer="19" extent="16-16"/>
-<wire x1="12.52" y1="17.92" x2="12.52" y2="17.92" width="0" layer="19" extent="1-16"/>
-<wire x1="9.98" y1="17.92" x2="12.52" y2="17.92" width="0" layer="19" extent="1-16"/>
-<wire x1="9.98" y1="17.92" x2="9.98" y2="17.92" width="0" layer="19" extent="1-16"/>
-<wire x1="7.44" y1="17.92" x2="9.98" y2="17.92" width="0" layer="19" extent="1-1"/>
-<wire x1="7.44" y1="17.92" x2="7.44" y2="17.92" width="0" layer="19" extent="1-16"/>
-<wire x1="4.9" y1="17.92" x2="7.44" y2="17.92" width="0" layer="19" extent="1-1"/>
-<wire x1="4.9" y1="17.92" x2="4.9" y2="17.92" width="0" layer="19" extent="1-16"/>
-<wire x1="2.36" y1="17.92" x2="4.9" y2="17.92" width="0" layer="19" extent="1-1"/>
-<wire x1="2.36" y1="17.92" x2="2.36" y2="17.92" width="0" layer="19" extent="1-16"/>
-<wire x1="15.16" y1="8.81" x2="15.06" y2="17.92" width="0" layer="19" extent="16-16"/>
-<wire x1="15.53" y1="8.19" x2="15.16" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="15.89" y1="8.81" x2="15.16" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="16.26" y1="8.19" x2="15.53" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="16.62" y1="8.81" x2="15.89" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="16.99" y1="8.19" x2="16.26" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="17.36" y1="8.81" x2="16.62" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="18.06" y1="8.81" x2="17.36" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="17.72" y1="8.19" x2="18.06" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="18.45" y1="8.19" x2="18.06" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="19.18" y1="8.19" x2="18.45" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="18.86" y1="8.81" x2="19.18" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="19.56" y1="8.81" x2="18.86" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="19.91" y1="8.19" x2="19.56" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="20.26" y1="8.81" x2="19.56" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="20.96" y1="8.81" x2="20.26" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="20.64" y1="8.19" x2="20.96" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="21.37" y1="8.19" x2="20.64" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="22.1" y1="8.19" x2="21.37" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="21.76" y1="8.81" x2="22.1" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="22.46" y1="8.81" x2="21.76" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="22.83" y1="8.19" x2="22.1" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="23.19" y1="7.57" x2="22.83" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="21" y1="7.57" x2="20.64" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="21.73" y1="7.57" x2="21.37" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="22.46" y1="7.57" x2="22.1" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="18.08" y1="7.57" x2="17.72" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="18.81" y1="7.57" x2="18.45" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="19.54" y1="7.57" x2="19.18" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="20.27" y1="7.57" x2="19.91" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="14.8" y1="8.19" x2="15.16" y2="8.81" width="0" layer="19" extent="1-1"/>
-<wire x1="15.89" y1="7.57" x2="15.53" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="16.62" y1="7.57" x2="16.26" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="17.35" y1="7.57" x2="16.99" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="14.43" y1="7.57" x2="14.8" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="15.16" y1="7.57" x2="15.53" y2="8.19" width="0" layer="19" extent="1-1"/>
-<wire x1="23.0378" y1="4.064" x2="23.19" y2="7.57" width="0" layer="19" extent="1-1"/>
-<wire x1="23.0378" y1="4.064" x2="23.0378" y2="4.064" width="0" layer="19" extent="1-16"/>
-<wire x1="20.4978" y1="4.064" x2="23.0378" y2="4.064" width="0" layer="19" extent="1-1"/>
-<wire x1="20.4978" y1="4.064" x2="20.4978" y2="4.064" width="0" layer="19" extent="1-16"/>
-<wire x1="17.9578" y1="4.064" x2="20.4978" y2="4.064" width="0" layer="19" extent="1-1"/>
-<wire x1="17.9578" y1="4.064" x2="17.9578" y2="4.064" width="0" layer="19" extent="1-16"/>
-<wire x1="15.4178" y1="4.064" x2="17.9578" y2="4.064" width="0" layer="19" extent="1-1"/>
 <wire x1="15.4178" y1="4.064" x2="15.4178" y2="4.064" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="SB">
@@ -1016,8 +927,8 @@ design rules under a new name.</description>
 <polygon width="0.1524" layer="16" thermals="no">
 <vertex x="16.49" y="24"/>
 <vertex x="16.49" y="13.04"/>
-<vertex x="24.48" y="13.04"/>
-<vertex x="24.48" y="-2"/>
+<vertex x="25.91" y="13.04"/>
+<vertex x="25.91" y="-2"/>
 <vertex x="34.17" y="-2"/>
 <vertex x="34.17" y="14"/>
 <vertex x="28.9" y="14"/>
@@ -1135,6 +1046,9 @@ design rules under a new name.</description>
 <vertex x="59.36" y="24"/>
 </polygon>
 <wire x1="35.7378" y1="4.064" x2="35.7378" y2="4.064" width="0" layer="19" extent="1-16"/>
+</signal>
+<signal name="N$2">
+<via x="14.44" y="7.55" extent="1-16" drill="0.3"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
