@@ -796,7 +796,7 @@ In this library the device names are the same as the pin names of the symbols, t
 </polygon>
 </package>
 <package name="TOONO">
-<polygon width="0" layer="22">
+<polygon width="0" layer="25">
 <vertex x="1.4478" y="5.0038"/>
 <vertex x="1.5494" y="4.7498" curve="-152.586802"/>
 <vertex x="1.4224" y="4.699"/>
@@ -1350,7 +1350,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="SUPPLY2" gate="GND" x="124.46" y="58.42" smashed="yes">
 <attribute name="VALUE" x="122.555" y="55.245" size="1.778" layer="96"/>
 </instance>
-<instance part="U$1" gate="G$1" x="101.6" y="12.7" smashed="yes"/>
+<instance part="U$1" gate="G$1" x="99.06" y="12.7" smashed="yes"/>
 </instances>
 <busses>
 </busses>

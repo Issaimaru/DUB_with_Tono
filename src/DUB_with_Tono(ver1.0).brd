@@ -173,7 +173,7 @@
 <library name="OKUDA_libraries">
 <packages>
 <package name="TOONO">
-<polygon width="0" layer="22">
+<polygon width="0" layer="25">
 <vertex x="1.4478" y="5.0038"/>
 <vertex x="1.5494" y="4.7498" curve="-152.586802"/>
 <vertex x="1.4224" y="4.699"/>
@@ -851,7 +851,7 @@ design rules under a new name.</description>
 <elements>
 <element name="DUB" library="10046971-019LF" package="10046971-019LF" value="10046971-019LF" x="32.84" y="17.92" smashed="yes"/>
 <element name="遠野" library="5-5530843-4" package="5-5530843-4" value="5-5530843-4" x="40.8178" y="4.064" smashed="yes"/>
-<element name="U$1" library="OKUDA_libraries" package="TOONO" value="YAJU" x="33.54" y="9.1" smashed="yes"/>
+<element name="U$1" library="OKUDA_libraries" package="TOONO" value="YAJU" x="33.88" y="9.24" smashed="yes"/>
 </elements>
 <signals>
 <signal name="SA">
