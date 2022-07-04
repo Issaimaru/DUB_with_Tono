@@ -1,5 +1,5 @@
 # DUB_with_Tono
-DriveUnit_Bseriesを遠野に刺せるように変換する基板
+[DriveUnit_Bseries](https://github.com/Issaimaru/MoterDriver_v1)を遠野に刺せるように変換する基板
 
 ## 基板外形図<br>
 **表**
